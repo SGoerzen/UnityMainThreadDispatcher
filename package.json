@@ -1,0 +1,17 @@
+{
+    "name": "com.unity.unity-main-thread-dispatcher",
+    "version": "1.0.0",
+    "displayName": "UnityMainThreadDispatcher",
+    "description": "A thread-safe way of dispatching IEnumerator functions to the main thread in unity. Useful for calling UI functions and other actions that Unity limits to the main thread from different threads.",
+    "unity": "5.3",
+    "dependencies": {},
+    "keywords": [
+      "main thread",
+      "threading",
+      "dispatcher"
+    ],
+    "author": {
+      "name": "PimDeWitte",
+      "url": "https://github.com/PimDeWitte"
+    }
+  }
